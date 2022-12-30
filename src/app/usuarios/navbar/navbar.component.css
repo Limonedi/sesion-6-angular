@@ -1,0 +1,12 @@
+.navbar {
+    background-color: #333;
+  }
+  
+  .navbar a {
+    color: rgb(196, 188, 188);
+  }
+  
+  .navbar .nav-item .nav-link {
+    font-size: 18px;
+    font-style:inherit;
+  }
